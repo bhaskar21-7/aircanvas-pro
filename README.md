@@ -1,50 +1,30 @@
-<<<<<<< HEAD
-Canvas Pro is a real-time hand gesture drawing application built using computer vision. It allows you to draw on the screen using just your fingers and a webcam  no mouse, no keyboard.
+# AirCanvas Pro 🎨
 
-The idea started as a simple experiment to understand hand tracking and real-time video processing, and slowly grew into a fun interactive canvas with smooth drawing, glowing strokes, and an easy color selection system. It feels a bit futuristic, but it is built using simple concepts and lots of experimentation.
+A computer vision based AirCanvas application that allows users to draw in the air using hand gestures and a webcam.
 
-Features
+## Features
+- Draw on screen using hand gestures
+- Multiple brush modes (Pen, Spray, Star)
+- Eraser tool
+- Color selection wheel
+- Real-time FPS display
 
-✅ Draw on the screen using hand gestures
+## Technologies Used
+- Python
+- OpenCV
+- MediaPipe
+- NumPy
 
-✅ Pinch your thumb and index finger to start drawing
+## Installation
 
-✅ Smooth cursor movement for better control
+Clone the repository:
 
-✅ Floating arc color palette for switching colors
+git clone https://github.com/bhaskar21-7/aircanvas-pro.git
 
-✅ Neon glow effect on strokes
+Install dependencies:
 
-✅ Clear canvas option
+pip install -r requirements.txt
 
-✅ Optional sound feedback while drawing (Windows only)
+Run the project:
 
-✅ Works in real time using your webcam
-
-How to Use
-
-👉 Show your hand to the camera
-
-👉 Move your index finger to control the cursor
-
-👉 Pinch your thumb and index finger to start drawing
-
-👉 Move your finger over the arc at the top to hover on colors
-
-👉 Pinch again to select a color
-
-👉 Select CLEAR to wipe the canvas
-
-👉 Press Q to exit the application
-
-Author
-
-Sameena Parvin
-
-Artificial Intelligence & Machine Learning Student
-
-Passionate about building creative tech projects and learning through hands-on experimentation
-=======
-# aircanvas-pro
-A computer vision based AirCanvas application that allows users to draw in the air using hand gestures and a webcam, built with Python, OpenCV, and MediaPipe.
->>>>>>> 1c81a3477c7e4ea9b8ae962bf951509690ef8021
+python canvas.py
