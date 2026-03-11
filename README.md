@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Canvas Pro is a real-time hand gesture drawing application built using computer vision. It allows you to draw on the screen using just your fingers and a webcam  no mouse, no keyboard.
 
 The idea started as a simple experiment to understand hand tracking and real-time video processing, and slowly grew into a fun interactive canvas with smooth drawing, glowing strokes, and an easy color selection system. It feels a bit futuristic, but it is built using simple concepts and lots of experimentation.
@@ -43,3 +44,7 @@ Sameena Parvin
 Artificial Intelligence & Machine Learning Student
 
 Passionate about building creative tech projects and learning through hands-on experimentation
+=======
+# aircanvas-pro
+A computer vision based AirCanvas application that allows users to draw in the air using hand gestures and a webcam, built with Python, OpenCV, and MediaPipe.
+>>>>>>> 1c81a3477c7e4ea9b8ae962bf951509690ef8021
