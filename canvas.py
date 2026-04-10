@@ -1,4 +1,7 @@
-
+"""
+Iron Canvas Pro — Python 3.13 + mediapipe 0.10.x compatible
+Uses the NEW mediapipe Tasks API (HandLandmarker) — zero mp.solutions usage.
+"""
 
 import cv2
 import numpy as np
