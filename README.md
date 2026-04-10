@@ -1,4 +1,4 @@
-# AirCanvas Pro 🎨
+
 
 A computer vision based AirCanvas application that allows users to draw in the air using hand gestures and a webcam.
 
